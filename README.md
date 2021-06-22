@@ -29,7 +29,7 @@ $ git clone https://github.com/tiagooandrade/letmeask.git
 $ yarn install our npm install
 
 # Start the project
-$ yarn dev or npm run dev
+$ yarn start or npm run start
 ```
 
 The application can be accessed at [`localhost:3000`](http://localhost:3000).
