@@ -10,17 +10,17 @@
   </p>
 </div>
 
+## ❓ About
+Every question has an answer. Learn and share knowledge with people.
+
+<img src="/.github/thumbnail.png" alt="thumbnail" />
+
 ## ✨ Technologies
 
 This project was developed with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
-
-## ❓ About
-Every question has an answer. Learn and share knowledge with people.
-
-<img src="/.github/thumbnail.png" alt="thumbnail" />
 
 ## 🚀 How to run
 
