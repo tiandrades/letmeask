@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="/.github/logo.svg" alt="logo" />
   <h3>letmeask</h3>
   <p>A Q&A app ❓</p>
   <hr/>
@@ -17,7 +18,9 @@ This project was developed with the following technologies:
 - [ReactJS](https://reactjs.org/)
 
 ## ❓ About
-Made to facilitate Q&As
+Every question has an answer. Learn and share knowledge with people.
+
+<img src="/.github/thumbnail.png" alt="thumbnail" />
 
 ## 🚀 How to run
 
